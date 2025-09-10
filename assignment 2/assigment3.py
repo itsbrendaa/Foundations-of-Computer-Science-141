@@ -75,6 +75,7 @@ Europe_places.sort(reverse=True)
 print(Europe_places)
 
 print("3-10")
+print(dinner_guest_list)
 print (f"I'm inviting {len(dinner_guest_list)} for dinner because i won't have my big table in taime to host a bigger one")
 
 print("3-11")
