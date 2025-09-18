@@ -98,6 +98,10 @@ for tupl in tuple:
 
 print("4-14")
 
+print("done")
+
+print("4-15")
+
 # below is the edited codes, i just added space between the quetion numbers 
 # and the code and make the list on 2 lines instead of one
 
