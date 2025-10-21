@@ -1,4 +1,4 @@
-print("heyy world. Its brendaa")
+print("Heyy world. It brenda")
 
 print("5-1")
 
@@ -217,7 +217,7 @@ for number in numbers:
 
 print("5-12")
 #i doubled checked my formating with the help of chat gpt.It was correct
-#for the most part and i had minor mistakes like spacing beside commas
+# for the most part and i had minor mistakes like spacing beside commas
 
 print ("5-13")
 #i would still like to look into creting a social media app similar to instagram
